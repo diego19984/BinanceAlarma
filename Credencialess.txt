@@ -1,0 +1,1 @@
+crea un archivo texto con el nombre de credeciales y escribe las llaves generadas por binance
